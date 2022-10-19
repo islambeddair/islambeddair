@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Islam Bedair
+- 👀 I’m interested in Motion Tracking , LED controller , Home Appliance , and Motor Control Inverter
+- 🌱 I’m currently learning RTOS and FOC
+- 💞️ I’m looking to collaborate on FOC Motor control
+- 📫 my Linkedin account :https://www.linkedin.com/in/islam-gamal-bedair-b9a15556/
